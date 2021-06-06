@@ -1,6 +1,6 @@
 <h3>Hi, I’m Bruno Bergamim! ✌</h3>
 
-I work in Toyota Motors Corporation over 17 years as Production and Project Engineering Coordinator (last 5 years in this position) based in Indaiatuba - São Paulo - Brazil.
+I’m graduatted in Cumputer Sciences since 2012 and I work in Toyota Motors Corporation over 17 years as Production and Project Engineering Coordinator (last 5 years in this position) based in Indaiatuba/São Paulo - Brazil.
 
 In my free hours, I work as a full-stack web developer and currently I have been studying Python and Machine Learning. 🤖
 

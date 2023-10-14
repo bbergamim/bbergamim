@@ -1,8 +1,8 @@
 <h3>Hi, I’m Bruno! ✌</h3>
 
-I’m graduatted in Cumputer Sciences since 2012 and I work in Toyota Motors Corporation over 17 years as Production and Project Engineering Coordinator (last 5 years in this position) based in Indaiatuba/São Paulo - Brazil.
+I’m graduatted in Cumputer Sciences since 2012 and I work in Toyota Motors Corporation over 19 years as IT Coordinator (last 1 year in this position) based in Sorocaba/São Paulo - Brazil.
 
-In my free hours, I work as a full-stack web developer and currently I have been studying Python and Machine Learning. 🤖
+In my free hours, I work as a full-stack web developer and currently I have been studying Python, Machine Learning and Java. 🤖
 
 I’m always trying to learn something new in order to improve my developer skills and my self as a human being. 💪🧠
 
